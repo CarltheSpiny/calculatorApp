@@ -1,0 +1,48 @@
+@options
+@packages
+-classpath
+'C:/Users/wwwyv/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE190/AbsoluteLayout-RELEASE190.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/wwwyv/OneDrive/Documents/NetBeansProjects/calculatorApp/src/main/java;C:/Users/wwwyv/OneDrive/Documents/NetBeansProjects/calculatorApp/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/wwwyv/OneDrive/Documents/NetBeansProjects/calculatorApp/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calculatorApp 1.0 API'
+-use
+-version
+-windowtitle
+'calculatorApp 1.0 API'
+ui.carlthespiny.calculatorapp
+C:\Users\wwwyv\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE190\AbsoluteLayout-RELEASE190.jar = 1696614180215
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\src\main\java = 1694626872014
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\generated-sources\annotations = 1696634489080
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\allclasses-index.html = 1696635184624
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\allpackages-index.html = 1696635184627
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\copy.svg = 1696635184660
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\element-list = 1696635184548
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\help-doc.html = 1696635184655
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\index-all.html = 1696635184645
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\index.html = 1696635184648
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\jquery-ui.overrides.css = 1696635184689
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\member-search-index.js = 1696635184634
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\module-search-index.js = 1696635184629
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\overview-tree.html = 1696635184613
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\package-search-index.js = 1696635184631
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\script.js = 1696635184658
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\search.js = 1696635184662
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\serialized-form.html = 1696635184595
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\stylesheet.css = 1696635184657
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\tag-search-index.js = 1696635184636
+C:\Users\wwwyv\OneDrive\Documents\NetBeansProjects\calculatorApp\target\apidocs\type-search-index.js = 1696635184632
